@@ -1,0 +1,3 @@
+[submodule "rateMyBoulderGymFrontend"]
+	path = rateMyBoulderGymFrontend
+	url = git@github.com:sturmkoenig/rateMyBoulderGymFrontend.git
